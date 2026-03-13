@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
         <meta charset="utf-8">
-        I'm a Human Systems Engineering (User Experience) major at Arizona State Univeristy. My goal is to create to create an experience that users will enjoy!
+        I'm a Human Systems Engineering (User Experience) major at Arizona State Univeristy. My goal is to create to create experiences that users will enjoy!
 <br>
 <html lang="en">
 <head>
